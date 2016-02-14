@@ -9,7 +9,7 @@ import org.junit.Test;
 import com.prototype.atm.ATMConsole;
 import com.prototype.bank.AccountType;
 import com.prototype.bank.Bank;
-import com.protoype.customer.User;
+import com.prototype.customer.User;
 
 public class BankTest {
 	Bank myBank;

@@ -1,4 +1,4 @@
-package com.protoype.customer;
+package com.prototype.customer;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

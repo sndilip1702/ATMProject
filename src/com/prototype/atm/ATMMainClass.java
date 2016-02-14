@@ -7,7 +7,7 @@ import java.util.Scanner;
 import com.prototype.bank.Account;
 import com.prototype.bank.AccountType;
 import com.prototype.bank.Bank;
-import com.protoype.customer.User;
+import com.prototype.customer.User;
 
 /**
  * @author Dilip 

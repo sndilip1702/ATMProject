@@ -2,7 +2,7 @@ package com.prototype.bank;
 
 import java.util.ArrayList;
 
-import com.protoype.customer.User;
+import com.prototype.customer.User;
 /**
  * 
  * @author Dilip
