@@ -74,6 +74,11 @@ public class ATMMainClass {
 		return authorizedUser;
 	}
 	
+	/**
+	 * Prompt to accept user selection
+	 * @param sc - Scanner for Keyboard input
+	 * @return the selection integer from the menu
+	 */
 	private static int printUserMenuUtil(Scanner sc){
 		int selection = 0;
 		try {
